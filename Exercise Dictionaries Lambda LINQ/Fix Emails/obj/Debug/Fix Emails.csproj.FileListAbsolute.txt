@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\bin\Debug\Fix Emails.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\bin\Debug\Fix Emails.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\bin\Debug\Fix Emails.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\obj\Debug\Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\obj\Debug\Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\obj\Debug\Fix Emails.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Fix Emails\obj\Debug\Fix Emails.pdb

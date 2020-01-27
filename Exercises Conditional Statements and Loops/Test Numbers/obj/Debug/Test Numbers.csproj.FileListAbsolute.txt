@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\obj\Debug\Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\obj\Debug\Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\bin\Debug\Test Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\bin\Debug\Test Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\bin\Debug\Test Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\obj\Debug\Test Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Test Numbers\obj\Debug\Test Numbers.pdb

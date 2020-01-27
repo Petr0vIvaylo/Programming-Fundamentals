@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\obj\Debug\ReverseMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\bin\Debug\ReverseMethod.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\bin\Debug\ReverseMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\bin\Debug\ReverseMethod.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\obj\Debug\ReverseMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ReverseMethod\obj\Debug\ReverseMethod.pdb

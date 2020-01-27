@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb

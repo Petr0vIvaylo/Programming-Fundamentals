@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

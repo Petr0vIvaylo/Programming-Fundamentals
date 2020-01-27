@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.pdb

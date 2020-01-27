@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.pdb

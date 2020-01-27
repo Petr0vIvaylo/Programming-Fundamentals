@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\bin\Debug\Max Sequence Of Equal Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\bin\Debug\Max Sequence Of Equal Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\bin\Debug\Max Sequence Of Equal Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\obj\Debug\Max Sequence Of Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\obj\Debug\Max Sequence Of Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\obj\Debug\Max Sequence Of Equal Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Max Sequence Of Equal Numbers\obj\Debug\Max Sequence Of Equal Numbers.pdb

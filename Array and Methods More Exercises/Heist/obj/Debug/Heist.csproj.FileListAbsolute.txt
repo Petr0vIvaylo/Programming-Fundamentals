@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\bin\Debug\Heist.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\bin\Debug\Heist.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\bin\Debug\Heist.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\obj\Debug\Heist.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\obj\Debug\Heist.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\obj\Debug\Heist.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Heist\obj\Debug\Heist.pdb

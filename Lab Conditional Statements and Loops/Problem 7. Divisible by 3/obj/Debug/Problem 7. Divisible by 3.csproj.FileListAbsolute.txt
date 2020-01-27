@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\bin\Debug\Problem_7.Divisible_by_3.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\obj\Debug\Problem 7. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 7. Divisible by 3\obj\Debug\Problem_7.Divisible_by_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\bin\Debug\Odd Numbers at Odd Positions.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Odd Numbers at Odd Positions\obj\Debug\Odd Numbers at Odd Positions.pdb

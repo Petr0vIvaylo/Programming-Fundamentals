@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\bin\Debug\Most Frequent Number.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Most Frequent Number\obj\Debug\Most Frequent Number.pdb

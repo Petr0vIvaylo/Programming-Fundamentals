@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\bin\Debug\Extendet Array Exercies.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\bin\Debug\Extendet Array Exercies.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\bin\Debug\Extendet Array Exercies.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\obj\Debug\Extendet Array Exercies.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\obj\Debug\Extendet Array Exercies.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\obj\Debug\Extendet Array Exercies.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Extendet Array Exercies\Extendet Array Exercies\obj\Debug\Extendet Array Exercies.pdb

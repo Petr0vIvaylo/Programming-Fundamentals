@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\bin\Debug\Debug the Code.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\bin\Debug\Debug the Code.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\bin\Debug\Debug the Code.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\obj\Debug\Debug the Code.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\obj\Debug\Debug the Code.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\obj\Debug\Debug the Code.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Debug the Code\obj\Debug\Debug the Code.csprojResolveAssemblyReference.cache

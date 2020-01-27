@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\bin\Debug\Sign of Integer Number.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\obj\Debug\Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\obj\Debug\Sign of Integer Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Sign of Integer Number\obj\Debug\Sign of Integer Number.pdb

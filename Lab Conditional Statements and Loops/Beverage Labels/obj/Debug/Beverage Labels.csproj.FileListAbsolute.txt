@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\obj\Debug\Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\obj\Debug\Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Beverage Labels\obj\Debug\Beverage Labels.pdb

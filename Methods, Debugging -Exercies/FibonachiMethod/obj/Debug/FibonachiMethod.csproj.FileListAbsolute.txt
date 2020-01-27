@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\bin\Debug\FibonachiMethod.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\bin\Debug\FibonachiMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\bin\Debug\FibonachiMethod.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\obj\Debug\FibonachiMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\obj\Debug\FibonachiMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\FibonachiMethod\obj\Debug\FibonachiMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\bin\Debug\Short Words Sorted.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\bin\Debug\Short Words Sorted.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\bin\Debug\Short Words Sorted.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\obj\Debug\Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\obj\Debug\Short Words Sorted.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\obj\Debug\Short Words Sorted.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Short Words Sorted\obj\Debug\Short Words Sorted.csprojResolveAssemblyReference.cache

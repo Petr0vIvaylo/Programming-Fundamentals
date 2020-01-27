@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\bin\Debug\Test.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\bin\Debug\Test.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\bin\Debug\Test.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\obj\Debug\Test.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\bin\Debug\Hotel.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\bin\Debug\Hotel.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\obj\Debug\Hotel.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Hotel\obj\Debug\Hotel.pdb

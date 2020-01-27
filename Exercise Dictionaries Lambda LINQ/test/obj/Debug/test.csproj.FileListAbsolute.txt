@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\bin\Debug\test.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\bin\Debug\test.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\bin\Debug\test.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\obj\Debug\test.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\test\obj\Debug\test.pdb

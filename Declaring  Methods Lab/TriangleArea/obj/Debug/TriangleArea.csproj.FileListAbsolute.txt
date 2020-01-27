@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\TriangleArea\obj\Debug\TriangleArea.pdb

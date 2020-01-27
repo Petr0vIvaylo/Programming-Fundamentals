@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\bin\Debug\TrailingZeros.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\bin\Debug\TrailingZeros.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\obj\Debug\TrailingZeros.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\obj\Debug\TrailingZeros.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\obj\Debug\TrailingZeros.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\TrailingZeros\obj\Debug\TrailingZeros.pdb

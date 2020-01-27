@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\bin\Debug\Longest Increasing Subsequence.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Longest Increasing Subsequence\obj\Debug\Longest Increasing Subsequence.pdb

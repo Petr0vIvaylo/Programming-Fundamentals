@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\bin\Debug\Temperature Conversion.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\obj\Debug\Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\obj\Debug\Temperature Conversion.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Temperature Conversion\obj\Debug\Temperature Conversion.pdb

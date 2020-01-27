@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\bin\Debug\Array and Methods More Exercises.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\bin\Debug\Array and Methods More Exercises.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\bin\Debug\Array and Methods More Exercises.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\obj\Debug\Manipulate array.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\obj\Debug\Manipulate array.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\obj\Debug\Array and Methods More Exercises.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Array and Methods More Exercises\obj\Debug\Array and Methods More Exercises.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\bin\Debug\Number checker.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\bin\Debug\Number checker.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\bin\Debug\Number checker.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\obj\Debug\Number checker.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\obj\Debug\Number checker.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lab Conditional Statements Loops\Number checker\obj\Debug\Number checker.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\obj\Debug\Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\obj\Debug\Neighbour Wars.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Neighbour Wars\obj\Debug\Neighbour Wars.csprojResolveAssemblyReference.cache

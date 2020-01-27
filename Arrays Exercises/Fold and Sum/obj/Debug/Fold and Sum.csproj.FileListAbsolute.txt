@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\bin\Debug\Fold and Sum.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\bin\Debug\Fold and Sum.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\bin\Debug\Fold and Sum.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\obj\Debug\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\obj\Debug\Fold and Sum.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\obj\Debug\Fold and Sum.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Fold and Sum\obj\Debug\Fold and Sum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\bin\Debug\miles to killometers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\bin\Debug\miles to killometers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\bin\Debug\miles to killometers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\obj\Debug\miles to killometers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\obj\Debug\miles to killometers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\miles to killometers\obj\Debug\miles to killometers.pdb

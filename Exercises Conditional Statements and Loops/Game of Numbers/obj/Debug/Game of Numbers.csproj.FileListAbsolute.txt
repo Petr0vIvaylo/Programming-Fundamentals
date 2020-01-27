@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\bin\Debug\Game of Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\bin\Debug\Game of Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\bin\Debug\Game of Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\obj\Debug\Game of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\obj\Debug\Game of Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Game of Numbers\obj\Debug\Game of Numbers.pdb

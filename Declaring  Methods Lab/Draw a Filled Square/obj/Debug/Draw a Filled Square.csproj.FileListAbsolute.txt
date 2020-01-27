@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\obj\Debug\Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Declaring  Methods Lab\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb

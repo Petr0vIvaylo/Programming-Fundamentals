@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\bin\Debug\Odd Occurences.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\bin\Debug\Odd Occurences.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\bin\Debug\Odd Occurences.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\obj\Debug\Odd Occurences.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\obj\Debug\Odd Occurences.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\obj\Debug\Odd Occurences.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Odd Occurences\obj\Debug\Odd Occurences.csprojResolveAssemblyReference.cache

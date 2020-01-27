@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\bin\Debug\Largest 3 numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\bin\Debug\Largest 3 numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\bin\Debug\Largest 3 numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\obj\Debug\Largest 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\obj\Debug\Largest 3 numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Dictionaries Lambda LINQ - Lab\Largest 3 numbers\obj\Debug\Largest 3 numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Array and Methods More Exercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.pdb

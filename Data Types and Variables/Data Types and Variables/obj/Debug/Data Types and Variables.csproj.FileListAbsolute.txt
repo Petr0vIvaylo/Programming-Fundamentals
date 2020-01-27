@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.pdb

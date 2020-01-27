@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise Dictionaries Lambda LINQ", "Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ.csproj", "{C8D05B01-BFA2-4A2D-8BF6-CD541BE59723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook Upgrade", "PhoneBook Upgrade\PhoneBook Upgrade.csproj", "{7B85BBE9-ED2B-49AC-B61D-D65971673B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Miner Task", "A Miner Task\A Miner Task.csproj", "{88BE0217-CFEE-42CD-920A-3A245FAFE147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fix Emails", "Fix Emails\Fix Emails.csproj", "{58540744-8820-4DF4-9ABA-4AFF31927459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands of Cards", "Hands of Cards\Hands of Cards.csproj", "{6D14867F-F0CD-4783-944D-C1DBE5F4B52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{F1956A63-F16D-4A69-A5E1-73F6BF918668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D05B01-BFA2-4A2D-8BF6-CD541BE59723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D05B01-BFA2-4A2D-8BF6-CD541BE59723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D05B01-BFA2-4A2D-8BF6-CD541BE59723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D05B01-BFA2-4A2D-8BF6-CD541BE59723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B85BBE9-ED2B-49AC-B61D-D65971673B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B85BBE9-ED2B-49AC-B61D-D65971673B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B85BBE9-ED2B-49AC-B61D-D65971673B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B85BBE9-ED2B-49AC-B61D-D65971673B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BE0217-CFEE-42CD-920A-3A245FAFE147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BE0217-CFEE-42CD-920A-3A245FAFE147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BE0217-CFEE-42CD-920A-3A245FAFE147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BE0217-CFEE-42CD-920A-3A245FAFE147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58540744-8820-4DF4-9ABA-4AFF31927459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58540744-8820-4DF4-9ABA-4AFF31927459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58540744-8820-4DF4-9ABA-4AFF31927459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58540744-8820-4DF4-9ABA-4AFF31927459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D14867F-F0CD-4783-944D-C1DBE5F4B52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D14867F-F0CD-4783-944D-C1DBE5F4B52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D14867F-F0CD-4783-944D-C1DBE5F4B52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D14867F-F0CD-4783-944D-C1DBE5F4B52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1956A63-F16D-4A69-A5E1-73F6BF918668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1956A63-F16D-4A69-A5E1-73F6BF918668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1956A63-F16D-4A69-A5E1-73F6BF918668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1956A63-F16D-4A69-A5E1-73F6BF918668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81075E84-6EC2-49E4-B088-E7FF7563C2DD}
+	EndGlobalSection
+EndGlobal

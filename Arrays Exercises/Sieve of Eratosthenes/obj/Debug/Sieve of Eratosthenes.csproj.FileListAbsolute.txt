@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb

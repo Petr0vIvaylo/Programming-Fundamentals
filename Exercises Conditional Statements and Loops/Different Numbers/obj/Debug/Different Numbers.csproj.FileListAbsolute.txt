@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\bin\Debug\Different Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\bin\Debug\Different Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\bin\Debug\Different Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\obj\Debug\Different Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\obj\Debug\Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\obj\Debug\Different Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 02\Different Numbers\obj\Debug\Different Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\bin\Debug\Different Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\bin\Debug\Different Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\bin\Debug\Different Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\obj\Debug\Different Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\obj\Debug\Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\obj\Debug\Different Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises Conditional Statements and Loops\Different Numbers\obj\Debug\Different Numbers.pdb

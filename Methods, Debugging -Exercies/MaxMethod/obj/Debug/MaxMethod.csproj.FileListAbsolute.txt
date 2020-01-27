@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\bin\Debug\MaxMethod.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\bin\Debug\MaxMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\bin\Debug\MaxMethod.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\obj\Debug\MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\obj\Debug\MaxMethod.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\MaxMethod\obj\Debug\MaxMethod.pdb

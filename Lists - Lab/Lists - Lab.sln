@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Negatives and Reverse", "Lists - Lab\Remove Negatives and Reverse.csproj", "{99D43242-CD26-419B-B174-99EF41E7C466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Append Lists", "Append Lists\Append Lists.csproj", "{F37B21FE-116B-4BE4-8D30-C71381E13225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Adjacent Equal Numbers", "Sum Adjacent Equal Numbers\Sum Adjacent Equal Numbers.csproj", "{48D535A0-C70E-41BD-A407-7747BF307EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split by Word Casing", "Split by Word Casing\Split by Word Casing.csproj", "{BAC1D0EF-FDA5-44D3-8C3B-BD17C6FB506B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting Numbers", "Sorting Numbers\Sorting Numbers.csproj", "{1EF245F6-32EE-438E-98A8-7DAC2DC55256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Numbers", "Square Numbers\Square Numbers.csproj", "{5AEBAABA-C77D-4D15-BBA3-B9590135551C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Numbers", "Count Numbers\Count Numbers.csproj", "{90FD1C0D-3337-4E36-95CB-7F5DB83E4A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D43242-CD26-419B-B174-99EF41E7C466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D43242-CD26-419B-B174-99EF41E7C466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D43242-CD26-419B-B174-99EF41E7C466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D43242-CD26-419B-B174-99EF41E7C466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37B21FE-116B-4BE4-8D30-C71381E13225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37B21FE-116B-4BE4-8D30-C71381E13225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37B21FE-116B-4BE4-8D30-C71381E13225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37B21FE-116B-4BE4-8D30-C71381E13225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D535A0-C70E-41BD-A407-7747BF307EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D535A0-C70E-41BD-A407-7747BF307EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D535A0-C70E-41BD-A407-7747BF307EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D535A0-C70E-41BD-A407-7747BF307EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC1D0EF-FDA5-44D3-8C3B-BD17C6FB506B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC1D0EF-FDA5-44D3-8C3B-BD17C6FB506B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC1D0EF-FDA5-44D3-8C3B-BD17C6FB506B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC1D0EF-FDA5-44D3-8C3B-BD17C6FB506B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF245F6-32EE-438E-98A8-7DAC2DC55256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF245F6-32EE-438E-98A8-7DAC2DC55256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF245F6-32EE-438E-98A8-7DAC2DC55256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF245F6-32EE-438E-98A8-7DAC2DC55256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEBAABA-C77D-4D15-BBA3-B9590135551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEBAABA-C77D-4D15-BBA3-B9590135551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEBAABA-C77D-4D15-BBA3-B9590135551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEBAABA-C77D-4D15-BBA3-B9590135551C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FD1C0D-3337-4E36-95CB-7F5DB83E4A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FD1C0D-3337-4E36-95CB-7F5DB83E4A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FD1C0D-3337-4E36-95CB-7F5DB83E4A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FD1C0D-3337-4E36-95CB-7F5DB83E4A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8C61E6-147E-4956-9A4A-349367D77FF9}
+	EndGlobalSection
+EndGlobal

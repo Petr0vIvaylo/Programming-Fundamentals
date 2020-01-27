@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\bin\Debug\PhoneBook Upgrade.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\bin\Debug\PhoneBook Upgrade.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\bin\Debug\PhoneBook Upgrade.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\obj\Debug\PhoneBook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\obj\Debug\PhoneBook Upgrade.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\PhoneBook Upgrade\obj\Debug\PhoneBook Upgrade.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.pdb

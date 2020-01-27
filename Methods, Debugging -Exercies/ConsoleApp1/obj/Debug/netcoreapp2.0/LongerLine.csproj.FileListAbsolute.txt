@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\bin\Debug\netcoreapp2.0\LongerLine.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\bin\Debug\netcoreapp2.0\LongerLine.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\bin\Debug\netcoreapp2.0\LongerLine.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\bin\Debug\netcoreapp2.0\LongerLine.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\bin\Debug\netcoreapp2.0\LongerLine.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Methods, Debugging -Exercies\ConsoleApp1\obj\Debug\netcoreapp2.0\LongerLine.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\bin\Debug\Square Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\bin\Debug\Square Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\bin\Debug\Square Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\obj\Debug\Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\obj\Debug\Square Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Square Numbers\obj\Debug\Square Numbers.pdb

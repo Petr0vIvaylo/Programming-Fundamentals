@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\bin\Debug\Bomb Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\obj\Debug\Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\obj\Debug\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\obj\Debug\Bomb Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Bomb Numbers\obj\Debug\Bomb Numbers.pdb

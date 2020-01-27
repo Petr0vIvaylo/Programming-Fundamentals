@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\bin\Debug\Debit Card Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\bin\Debug\Debit Card Number.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\obj\Debug\Debit Card Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\obj\Debug\Debit Card Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Debit Card Number\obj\Debug\Debit Card Number.pdb

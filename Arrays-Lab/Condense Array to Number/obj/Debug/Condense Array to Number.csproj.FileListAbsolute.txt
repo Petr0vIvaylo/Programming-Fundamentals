@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\obj\Debug\Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\obj\Debug\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays-Lab\Condense Array to Number\obj\Debug\Condense Array to Number.pdb

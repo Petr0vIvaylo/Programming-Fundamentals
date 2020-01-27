@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\bin\Debug\Conditional Statements and Loops.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Conditional Statements and Loops\obj\Debug\Conditional Statements and Loops.pdb

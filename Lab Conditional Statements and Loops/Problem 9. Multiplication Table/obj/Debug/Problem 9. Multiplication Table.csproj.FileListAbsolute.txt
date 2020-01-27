@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\bin\Debug\Problem_9.Multiplication_Table.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\obj\Debug\Problem 9. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\obj\Debug\Problem_9.Multiplication_Table.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercises 01\Problem 9. Multiplication Table\obj\Debug\Problem_9.Multiplication_Table.pdb

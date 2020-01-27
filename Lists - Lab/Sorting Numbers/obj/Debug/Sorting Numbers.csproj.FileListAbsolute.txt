@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\bin\Debug\Sorting Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\bin\Debug\Sorting Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\bin\Debug\Sorting Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\obj\Debug\Sorting Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\obj\Debug\Sorting Numbers.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Lists - Lab\Sorting Numbers\obj\Debug\Sorting Numbers.pdb

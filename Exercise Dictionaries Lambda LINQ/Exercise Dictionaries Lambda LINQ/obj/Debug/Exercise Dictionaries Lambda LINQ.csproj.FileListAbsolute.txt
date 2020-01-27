@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\bin\Debug\Exercise Dictionaries Lambda LINQ.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\bin\Debug\Exercise Dictionaries Lambda LINQ.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\bin\Debug\Exercise Dictionaries Lambda LINQ.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\obj\Debug\Exercise Dictionaries Lambda LINQ.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\obj\Debug\Exercise Dictionaries Lambda LINQ.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\obj\Debug\Exercise Dictionaries Lambda LINQ.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\Exercise Dictionaries Lambda LINQ\obj\Debug\Exercise Dictionaries Lambda LINQ.pdb

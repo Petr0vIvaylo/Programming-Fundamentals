@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\obj\Debug\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\obj\Debug\A Miner Task.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Exercise Dictionaries Lambda LINQ\A Miner Task\obj\Debug\A Miner Task.csprojResolveAssemblyReference.cache

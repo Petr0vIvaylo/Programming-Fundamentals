@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\bin\Debug\Compare Char Arrays.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\Arrays Exercises\Compare Char Arrays\obj\Debug\Compare Char Arrays.pdb

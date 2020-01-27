@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\bin\Debug\Test shift.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\bin\Debug\Test shift.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\bin\Debug\Test shift.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\obj\Debug\Test shift.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\obj\Debug\Test shift.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\obj\Debug\Test shift.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Programming Fundamentals\List Exercies\Test shift\obj\Debug\Test shift.pdb
